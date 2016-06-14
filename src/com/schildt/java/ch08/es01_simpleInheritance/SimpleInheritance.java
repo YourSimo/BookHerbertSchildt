@@ -1,4 +1,4 @@
-package com.schildt.java.ch08.es1_simpleInheritance;
+package com.schildt.java.ch08.es01_simpleInheritance;
 
 class SimpleInheritance {
 	
